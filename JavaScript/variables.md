@@ -26,7 +26,7 @@ let nombre3 = "pablo";
 
 En este ejemplo, hemos declarado una variable llamada nombre y le hemos asignado el valor "Juan".
 
-##Uso de variables
+## Uso de variables
 
 Una vez que has declarado y asignado un valor a una variable, puedes utilizarla en tu código de varias formas, como imprimir su valor en la consola, utilizarla en expresiones matemáticas o concatenarla con otras cadenas de texto.
 
