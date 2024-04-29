@@ -37,6 +37,6 @@ console.log("La edad es: " + edad);
 
 En este ejemplo, hemos declarado una variable edad con el valor 30 y luego la hemos impreso en la consola.
 
-##Conclusión
+## Conclusión
 
 Las variables son una parte fundamental de la programación en JavaScript y te permiten almacenar y manipular datos en tus programas. Aprender a utilizar variables correctamente es esencial para escribir código JavaScript eficiente y legible.¡Diviértete aprendiendo sobre variables en JavaScript!
