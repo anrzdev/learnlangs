@@ -21,10 +21,10 @@ Una vez que has declarado una variable, puedes asignarle un valor utilizando el 
 ```javascript
 var nombre1 = "rodolfo"
 let nombre2 = "Juan";
-let nombre3 = "pablo";
+const nombre3 = "pablo";
 ```
 
-En este ejemplo, hemos declarado una variable llamada nombre y le hemos asignado el valor "Juan".
+En este ejemplo, hemos declarado tres variable llamada nombre1, nombre2 y nombre3 y le hemos asignado el valor "rodolfo", "juan", "pablo".
 
 ## Uso de variables
 
@@ -33,6 +33,7 @@ Una vez que has declarado y asignado un valor a una variable, puedes utilizarla 
 ```javascript
 let edad = 30;
 console.log("La edad es: " + edad);
+// Esto imprimira: "La edad es: 30"
 ```
 
 En este ejemplo, hemos declarado una variable edad con el valor 30 y luego la hemos impreso en la consola.
