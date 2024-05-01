@@ -8,13 +8,17 @@
 - [Operadores](#operadores)
 - [Estructuras de control](#estructuras-de-control)
 - [Funciones](#funciones)
-- [Objetos](#objetos)
 - [Arreglos](#arreglos)
+- [Objetos](#objetos)
 - [Iteración](#iteración)
+- [Manipular el DOM](#manipular-el-dom)
 - [Eventos](#eventos)
 - [Async/Await](#async-await)
 - [Fetch](#fetch)
 - [Promesas](#promesas)
+- [Clases](#clases)
+- [Manejo de errores](#manejo-de-errores)
+- [Modulos](#modulos)
 
 ## Variables
 
