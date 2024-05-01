@@ -36,13 +36,13 @@ Aprenderás sobre las estructuras de control en JavaScript, como `if`, `else`, `
 
 Descubre cómo definir y llamar funciones en JavaScript, así como los diferentes tipos de funciones, como funciones anónimas, funciones de flecha y funciones de orden superior.
 
-## Objetos
-
-En esta sección, exploraremos cómo trabajar con objetos en JavaScript, incluyendo la creación de objetos, la adición y eliminación de propiedades, y el acceso a propiedades de objetos.
-
 ## Arreglos
 
 Aprenderás sobre cómo trabajar con arreglos en JavaScript, incluyendo la creación de arreglos, la adición y eliminación de elementos, y métodos útiles como `map`, `filter` y `reduce`.
+
+## Objetos
+
+En esta sección, exploraremos cómo trabajar con objetos en JavaScript, incluyendo la creación de objetos, la adición y eliminación de propiedades, y el acceso a propiedades de objetos.
 
 ## Iteración
 
