@@ -10,7 +10,7 @@
 - [Funciones](#funciones)
 - [Arreglos](#arreglos)
 - [Objetos](#objetos)
-- [Iteración](#iteración)
+- [Bucles](#bucles)
 - [Manipular el DOM](#manipular-el-dom)
 - [Eventos](#eventos)
 - [Async/Await](#async-await)
@@ -44,9 +44,9 @@ Aprenderás sobre cómo trabajar con arreglos en JavaScript, incluyendo la creac
 
 En esta sección, exploraremos cómo trabajar con objetos en JavaScript, incluyendo la creación de objetos, la adición y eliminación de propiedades, y el acceso a propiedades de objetos.
 
-## Iteración
+## Bucles
 
-Descubre cómo iterar sobre arreglos y objetos en JavaScript utilizando bucles `for`, `while` y métodos como `forEach`, `map`, y `for...of`.
+Descubre cómo iterar sobre arreglos y objetos en JavaScript utilizando bucles `for`, `while` y métodos como `forEach`, `map`, `for...of` y `for...in`.
 
 ## Eventos
 
