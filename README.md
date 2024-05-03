@@ -18,6 +18,7 @@ El repositorio está organizado por lenguaje de programación, con cada lenguaje
 ## Lenguajes Soportados
 
 - JavaScript
+- Python
 
 ## Retroalimentación y Soporte
 
