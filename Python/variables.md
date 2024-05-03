@@ -1,6 +1,6 @@
 # Variables en Python
 
-## En python una variable es un contenedor para almacenar datos. Puedes pensar en una variable como un nombre asociado a un valor. Aquí te muestro cómo crear y usar variables en Python:
+En python una variable es un contenedor para almacenar datos. Puedes pensar en una variable como un nombre asociado a un valor. Aquí te muestro cómo crear y usar variables en Python:
 
 - 1 Asignación de variables: Para asignar un valor a una variable, utilizamos el operador de asignación "=", seguido del valor que queremos asignar.
 
